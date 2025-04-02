@@ -1,0 +1,547 @@
+D:\QuanLiResort\QuanLyDichVuReSort\QuanLyDichVuReSort\GUI\bin\Debug\GUI.exe.config
+D:\QuanLiResort\QuanLyDichVuReSort\QuanLyDichVuReSort\GUI\bin\Debug\GUI.exe
+D:\QuanLiResort\QuanLyDichVuReSort\QuanLyDichVuReSort\GUI\bin\Debug\GUI.pdb
+D:\QuanLiResort\QuanLyDichVuReSort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.UI2.dll
+D:\QuanLiResort\QuanLyDichVuReSort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\QuanLiResort\QuanLyDichVuReSort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Form1.resources
+D:\QuanLiResort\QuanLyDichVuReSort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QuanLiResort\QuanLyDichVuReSort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\QuanLiResort\QuanLyDichVuReSort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.exe
+D:\QuanLiResort\QuanLyDichVuReSort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.pdb
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe.config
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.pdb
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.dll
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.dll
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.UI2.dll
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.pdb
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll.config
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.pdb
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.pdb
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.DanhSachPhong.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCapLaiMatKhau.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDangNhap.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDanhSachPhong.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatDichVu.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiPhong.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmGuiMail.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmMain.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatPhong.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanPhong.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyDichVu.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyKhachHang.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyNhanVien.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyPhong.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyThietBi.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuyDinh.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmSuDungThietBi.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongKeDoanhThu.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongTinGiaPhong.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmTrangChu.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.exe
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.pdb
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCatDatThongTin.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiMatKhau.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanVienKhongHoatDong.resources
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.dll
+D:\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe.config
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.pdb
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.pdb
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll.config
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.pdb
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.pdb
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.DanhSachPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCapLaiMatKhau.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCatDatThongTin.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDangNhap.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDanhSachPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatDichVu.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiMatKhau.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmGuiMail.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmMain.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanVienKhongHoatDong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyDichVu.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyKhachHang.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyNhanVien.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyThietBi.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuyDinh.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmSuDungThietBi.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongKeDoanhThu.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongTinGiaPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmTrangChu.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.exe.licenses
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.exe
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.pdb
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDuyetPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe.config
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.UI2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Images.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll.config
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.DanhSachPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCapLaiMatKhau.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCatDatThongTin.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDangNhap.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDanhSachPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatDichVu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiMatKhau.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDuyetPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmGuiMail.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmMain.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanVienKhongHoatDong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyDichVu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyKhachHang.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyNhanVien.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyThietBi.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuyDinh.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmSuDungThietBi.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongKeDoanhThu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongTinGiaPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmTrangChu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.exe.licenses
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.exe
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.pdb
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe.config
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.exe
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.pdb
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.pdb
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.pdb
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll.config
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.pdb
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.pdb
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.DanhSachPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCapLaiMatKhau.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCatDatThongTin.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDangNhap.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDanhSachPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatDichVu.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiMatKhau.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDuyetPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmGuiMail.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmMain.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanVienKhongHoatDong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyDichVu.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyKhachHang.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyNhanVien.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyThietBi.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuyDinh.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmSuDungThietBi.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongKeDoanhThu.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongTinGiaPhong.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmTrangChu.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.exe.licenses
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Report.BaoCaoTongQuan.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Report.BaoCaoHoaDonThanhToan.resources
+C:\Users\thien\Downloads\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Report.BaoCaoDatPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe.config
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.exe
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.UI2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Images.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll.config
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.DanhSachPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCapLaiMatKhau.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCatDatThongTin.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDangNhap.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDanhSachPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatDichVu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiMatKhau.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDuyetPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmGuiMail.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmMain.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanVienKhongHoatDong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyDichVu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyKhachHang.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyNhanVien.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyThietBi.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuyDinh.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmSuDungThietBi.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongKeDoanhThu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongTinGiaPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmTrangChu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Report.BaoCaoDatPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Report.BaoCaoHoaDonThanhToan.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Report.BaoCaoTongQuan.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.exe.licenses
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLiResort\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe.config
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.exe
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\QuanLyDichVuResort.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.UI2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\itextsharp.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Images.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DAL.dll.config
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DDL.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\DTO.pdb
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\Guna.Charts.WinForms.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\bin\Debug\itextsharp.xml
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.DanhSachPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCapLaiMatKhau.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmCatDatThongTin.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDangNhap.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDanhSachPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatDichVu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiMatKhau.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDoiPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDuyetPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmGuiMail.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmGuiMailReport.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmLoadDer.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmMain.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmDatPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmNhanVienKhongHoatDong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyDichVu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyKhachHang.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyLoaiPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyNhanVien.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuanLyThietBi.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmQuyDinh.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmSuDungThietBi.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongKeDoanhThu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmThongTinGiaPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.FrmTrangChu.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Report.BaoCaoDatPhong.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Report.BaoCaoHoaDonThanhToan.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.Report.BaoCaoTongQuan.resources
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.exe.licenses
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.exe
+D:\Đồ án\Đồ án chuyên ngành\QuanLiResort\QuanLyDichVuReSort\GUI\obj\Debug\QuanLyDichVuResort.pdb

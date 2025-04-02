@@ -1,0 +1,11 @@
+D:\QuanLiResort\QuanLyDichVuReSort\DDL\bin\Debug\DDL.dll
+D:\QuanLiResort\QuanLyDichVuReSort\DDL\bin\Debug\DDL.pdb
+D:\QuanLiResort\QuanLyDichVuReSort\DDL\bin\Debug\DAL.dll
+D:\QuanLiResort\QuanLyDichVuReSort\DDL\bin\Debug\DTO.dll
+D:\QuanLiResort\QuanLyDichVuReSort\DDL\bin\Debug\DAL.pdb
+D:\QuanLiResort\QuanLyDichVuReSort\DDL\bin\Debug\DTO.pdb
+D:\QuanLiResort\QuanLyDichVuReSort\DDL\obj\Debug\DDL.dll
+D:\QuanLiResort\QuanLyDichVuReSort\DDL\obj\Debug\DDL.pdb
+D:\QuanLiResort\QuanLyDichVuReSort\DDL\obj\Debug\DDL.csproj.AssemblyReference.cache
+D:\QuanLiResort\QuanLyDichVuReSort\DDL\obj\Debug\DDL.csproj.CoreCompileInputs.cache
+D:\QuanLiResort\QuanLyDichVuReSort\DDL\obj\Debug\DDL.csproj.CopyComplete

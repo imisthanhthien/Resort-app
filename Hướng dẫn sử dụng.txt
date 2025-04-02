@@ -1,0 +1,45 @@
+###### PHẦN MỀM QUẢN LÝ DỊCH VỤ TẠI RESORT######
+
+# HƯỚNG DẪN SỬ DỤNG PHẦN MỀM
+- Dùng SSMS run query  ../Database/ScripQuanLyResort.sql
+- Dùng Visual Studio mở QuanLyDichVuReSort/QuanLyDichVuReSort.sln
+- Thay đổi connection string trong App.config cho phù hợp
+- CHỨC NĂNG SEND EMAIL: sửa tài khoản, mật khẩu ở QuanLyDichVuReSort /GUI/FrmGuiMail.cs (phần này nhóm tham khảo trên nhiều nguồn áp dụng cho đồ án) [-> tài khoản và mậ khẩu email trong đồ án là nhóm tự tạo nên có thể sử dụng bình thường]
+-CHỨC NĂNG GỬI HÓA ĐƠN THANH TOÁN QUA EMAIL: Khi thanh toán tại quầy thì sẽ gửi trực tiếp hóa đơn dịch vụ vài tài khoản email của khách hàng (phần này thầy HD yêu cầu làm thêm và đã thực hiên được)
+
+#ÁP DỤNG CÔNG NGHỆ CHO ĐỒ ÁN
+- FRAMEWORK: Guna.UI2.Winforms(thiết kế giao diện), Guna.UI2.Charts ( thống kê báo cáo), DevExpress (làm report )
+
+#TÀI KHOẢN PHẦN MỀM 
+- CHO QUẢN LÝ
+
+  + Tài khoản: thanhthien
+  + Mật Khẩu: 123
+
+  + Tài khoản: ngocthien
+  + Mật Khẩu: 123
+
+- CHO NHÂN VIÊN LỄ TÂN
+
+  + Tài khoản: phamthiyen
+  + Mật Khẩu: 123
+
+  + Tài khoản: huongtran
+  + Mật Khẩu: 123
+
+  + Tài khoản: thaonhu
+  + Mật Khẩu: 123
+
+- CHO NHÂN VIÊN THU NGÂN
+
+  + Tài khoản: suong1999
+  + Mật Khẩu: 123
+
+  + Tài khoản: phibang 
+  + Mật Khẩu: 123
+
+-- GMAIL HỆ THỐNG RESORT 
+  + Tài khoản: hethongquanlyresort102@gmail.com 
+  + Mật Khẩu: Resort123
+
+--Tất cả mật khẩu của quản lý, nhân viên đều được mã hóa và bảo mật tuyệt đối.
